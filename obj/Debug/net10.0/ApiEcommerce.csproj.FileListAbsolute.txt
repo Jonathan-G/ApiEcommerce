@@ -162,4 +162,4 @@ C:\Users\USUARIO\OneDrive\Documentos\DevTalles\.Net Backend\DotNET\ApiEcommerce\
 C:\Users\USUARIO\OneDrive\Documentos\DevTalles\.Net Backend\DotNET\ApiEcommerce\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\USUARIO\OneDrive\Documentos\DevTalles\.Net Backend\DotNET\ApiEcommerce\bin\Debug\net10.0\AutoMapper.dll
 C:\Users\USUARIO\OneDrive\Documentos\DevTalles\.Net Backend\DotNET\ApiEcommerce\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\USUARIO\OneDrive\Documentos\DevTalles\.Net Backend\DotNET\ApiEcommerce\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\USUARIO\OneDrive\Documentos\DevTalles\.Net Backend\DotNET\ApiEcommerce\obj\Debug\net10.0\ApiEcommerce.sourcelink.json
